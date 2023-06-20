@@ -1,2 +1,2 @@
-# Adwa_Game
-This Adwa Game using Pygame
+# Game_Using_pygame
+This  Game using Pygame
